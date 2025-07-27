@@ -12,7 +12,7 @@ export default function App() {
     for (let char of combined) {
       score += char.charCodeAt(0);
     }
-    return 100;
+  return (score % 51) + 50; // returns number between 50–100
   };
 
   const handleShowLove = () => {

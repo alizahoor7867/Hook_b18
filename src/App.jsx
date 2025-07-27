@@ -11,8 +11,8 @@ const App = () => {
     <>
       {/* <Usestate /> */}
       {/* <Counter /> */}
-      <Circuits/>
-      {/* <BIirthday/> */}
+      {/* <Circuits/> */}
+      <BIirthday/>
       {/* <Useeffect/> */}
 
     </>
