@@ -7,7 +7,7 @@ export const data = [
   },
   {
     id: 2,
-    name: 'Sahrish',
+    name: 'zaid',
     age: 21,
     Image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBp3gsQdFjO_r7zsVr0d-gs8n86rXGbmp3w&s',
   },
